@@ -1,0 +1,53 @@
+1. Difference between Implicit and Explicit wait  --->
+
+2. Diffrence Types of Framework and explain them  --->
+
+3. What type of Framework used in the current Project and Explain  -->
+
+4. What is Page Object Model -->
+
+5. Diff between single slash and Doube Slash -->
+
+6. Diff between Find Element and Find Elements  -->
+
+7. How to navigate to frame suntax
+
+8. What is Iterator  -->
+
+9. What is Pause  -->
+
+10. Diff between Break Point and Match Point  -->
+
+11. What is Listener, types of Listener and where it's used  -->
+
+12. Given two Programs : 1. Get the values from the Drop Down and sort them using collections
+
+                         2. Explain window handles and how to Traverse
+
+13. Roles and Responsibilities in current Project
+
+14. What is Wait and Types -->
+
+15. What is the Purpose of Selenium tool  -->
+
+16. What is Xpath and Types of Xpath -->
+
+17. Write code to Open Browser -->
+
+18. Write code to upload image using robot class-->
+
+19. What is constructor and Types of constructor -->
+
+20. Explain OOPS concepts - Abstraction, Encapsulation, Polymorphism and its types
+
+21. what is .this, final and super keywords
+
+22. Method of alert 
+
+23. How to switch to alert
+
+24. Quesstions about Testng Annotation Hierarchy
+
+25. what is Data Provider
+
+26. Where we will use Explicit wait
